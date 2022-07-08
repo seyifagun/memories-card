@@ -1,0 +1,20 @@
+CREATE TWO FOLDERS -- client and server folders
+
+create react app inside the client folder and install specific dependencies
+ inside the server folder like; express, mongoose, cors, body-parser
+
+install specific dependencies
+ inside the client folder like; redux, redux-thunk, axios, moment, react-file-base64
+
+ ==== Backend Setup ====
+ create mongoDB cluster
+ connect to database
+ setup models
+ create documents
+ & setup folder structure for backend application
+
+ while in mongoDB: [setup connection security & connection method]
+ connected to atlas by: creating cluster, create database user, add IP address to access, load sample data and connect to cluster to our application(express:: server-side app)
+ [1] created Database access [2] network access 
+
+ After creating models, we add more routes......
